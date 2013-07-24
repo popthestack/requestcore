@@ -139,7 +139,7 @@ class RequestCore
 	/**
 	 * The location of the cacert.pem file to use.
 	 */
-	public $cacert_location = false;
+	public $cacert_location = true;
 
 	/**
 	 * The state of SSL certificate verification.

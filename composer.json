@@ -4,6 +4,7 @@
     "description": "Lightweight cURL-based HTTP class.",
     "keywords": ["requestcore"],
     "homepage": "https://github.com/popthestack/requestcore",
+    "version:": "1.2.0",
     "authors": [
         {
             "name": "Ryan Martinsen",
